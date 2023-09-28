@@ -86,7 +86,7 @@ Se nota como al eliminar los outliers y analizar la dispersion el TLT propuesto 
 Adicionalmente se construyo un dashboard en power Bi que se conecto a la base de datos generada en SQLite3 y con esto se elaboro un dashboard mas dinamico.
 A continuacion se muestra un pantallazo del dashboard
 
-![image](https://github.com/Capevele/proyecto_PenarandaMonsalve/assets/110875304/54b8f46d-a41d-45fe-9c6e-8d51fab1363e)
+![image](https://github.com/Capevele/proyecto_PenarandaMonsalve/assets/110875304/44b09965-5456-4fc4-8eea-a758517bd14c)
 
 Las conexiones establecidas entre las tablas:
 ![image](https://github.com/Capevele/proyecto_PenarandaMonsalve/assets/110875304/b9aa4a4b-cbab-45b6-8641-e10f5278313c)
